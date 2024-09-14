@@ -13,11 +13,10 @@ https://bobbyprs.github.io/token-generator/
 
    ```bash
    git clone https://github.com/bobbyprs/token-generator.git
+   
    cd ./token-generator
+   
    yarn
-In the project directory, you can run:
-
-### `yarn`
 
 ## Available Scripts
 
