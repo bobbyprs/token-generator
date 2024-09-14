@@ -12,7 +12,7 @@ https://bobbyprs.github.io/token-generator/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/bobbyprs/token-generator.git
 In the project directory, you can run:
 
 ### `yarn`
@@ -31,8 +31,7 @@ You may also see any lint errors in the console.
 
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode.
 
 
 ## Features
