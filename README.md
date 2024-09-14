@@ -4,6 +4,9 @@
 
 The Token Generator Application is a React app that allows users to generate and display tokens based on user input. The app uses Material UI for styling and React Hook Form for form handling and validation. Users can input the number of tokens, a prefix for the tokens, and the number of tokens per row. The tokens are displayed in two sections: Blue Tokens and Red Tokens.
 
+## Preview
+https://bobbyprs.github.io/token-generator/
+
 ## Installation
 
 1. **Clone the repository:**
